@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4463ce6-df11-4482-8d94-f8a68c380485" name="Default Changelist" comment="" />
+    <list default="true" id="a4463ce6-df11-4482-8d94-f8a68c380485" name="Default Changelist" comment="添加test10方法">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/dome/ExtendsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/dome/ExtendsTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +32,14 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -58,6 +70,7 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -181,11 +194,18 @@
       <updated>1585807784913</updated>
       <workItem from="1585807787485" duration="12721000" />
       <workItem from="1585875406847" duration="15629000" />
+      <workItem from="1585905092760" duration="2283000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加test07方法" />
+    <MESSAGE value="添加test08方法" />
+    <MESSAGE value="添加test10方法" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加test10方法" />
   </component>
   <component name="WindowStateProjectService">
     <state x="313" y="119" key="#Project_Structure" timestamp="1585807854291">
@@ -200,6 +220,10 @@
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="451" y="207" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.920@0.0.1440.920" timestamp="1585815032220" />
+    <state x="330" y="51" key="CommitChangelistDialog2" timestamp="1585907394281">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="330" y="51" key="CommitChangelistDialog2/0.0.1440.920@0.0.1440.920" timestamp="1585907394281" />
     <state width="1382" height="257" key="GridCell.Tab.0.bottom" timestamp="1585902729306">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
@@ -236,6 +260,14 @@
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="222" y="103" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1585892452860" />
+    <state x="313" y="194" key="Vcs.Push.Dialog.v2" timestamp="1585906898330">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="313" y="194" key="Vcs.Push.Dialog.v2/0.0.1440.920@0.0.1440.920" timestamp="1585906898330" />
+    <state x="419" y="252" key="git4idea.merge.GitPullDialog" timestamp="1585905771965">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="419" y="252" key="git4idea.merge.GitPullDialog/0.0.1440.920@0.0.1440.920" timestamp="1585905771965" />
     <state x="383" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1585808053148">
       <screen x="0" y="0" width="1440" height="920" />
     </state>

@@ -109,7 +109,26 @@ public class ExtendsTest {
             maps.add(map);
         }
         System.out.println("maps = " + maps);
-
     }
+
+
+    public void test07 () {
+        System.out.println("我是test07");
+    }
+    public void test08() {
+        System.out.println("我是test08");
+    }
+
+    public void test10 () {
+        System.out.println("我是test10");
+    }
+
+    public void test11 () {
+        System.out.println("我是test11");
+    }
+
+
+
+
 
 }

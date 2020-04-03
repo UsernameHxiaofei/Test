@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a4463ce6-df11-4482-8d94-f8a68c380485" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/soft/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\soft\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1ZyOI5zwqWAWcJwfkEvNh0bkVhC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.dome.mapper" />
+      <recent name="com.dome.service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ExtendsTest.test06">
+    <configuration name="ExtendsTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dome" />
+      <option name="MAIN_CLASS_NAME" value="dome.ExtendsTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExtendsTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dome" />
+      <option name="MAIN_CLASS_NAME" value="dome.ExtendsTest" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExtendsTest.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dome" />
+      <option name="MAIN_CLASS_NAME" value="dome.ExtendsTest" />
+      <option name="METHOD_NAME" value="test03" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExtendsTest.test04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dome" />
+      <option name="MAIN_CLASS_NAME" value="dome.ExtendsTest" />
+      <option name="METHOD_NAME" value="test04" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExtendsTest.test06" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dome" />
+      <option name="MAIN_CLASS_NAME" value="dome.ExtendsTest" />
+      <option name="METHOD_NAME" value="test06" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dome.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ExtendsTest.test06" />
+        <item itemvalue="JUnit.ExtendsTest.test04" />
+        <item itemvalue="JUnit.ExtendsTest.test03" />
+        <item itemvalue="JUnit.ExtendsTest.test02" />
+        <item itemvalue="JUnit.ExtendsTest.test01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4463ce6-df11-4482-8d94-f8a68c380485" name="Default Changelist" comment="" />
+      <created>1585807784913</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585807784913</updated>
+      <workItem from="1585807787485" duration="12721000" />
+      <workItem from="1585875406847" duration="15629000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="313" y="119" key="#Project_Structure" timestamp="1585807854291">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="313" y="119" key="#Project_Structure/0.0.1440.920@0.0.1440.920" timestamp="1585807854291" />
+    <state x="526" y="145" key="#com.intellij.ide.util.MemberChooser" timestamp="1585893017941">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="526" y="145" key="#com.intellij.ide.util.MemberChooser/0.0.1440.920@0.0.1440.920" timestamp="1585893017941" />
+    <state x="451" y="207" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585815032220">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="451" y="207" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.920@0.0.1440.920" timestamp="1585815032220" />
+    <state width="1382" height="257" key="GridCell.Tab.0.bottom" timestamp="1585902729306">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1382" height="257" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1585902729306" />
+    <state width="1382" height="257" key="GridCell.Tab.0.center" timestamp="1585902729306">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1382" height="257" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1585902729306" />
+    <state width="1382" height="257" key="GridCell.Tab.0.left" timestamp="1585902729305">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1382" height="257" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1585902729305" />
+    <state width="1382" height="257" key="GridCell.Tab.0.right" timestamp="1585902729306">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1382" height="257" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1585902729306" />
+    <state width="1382" height="257" key="GridCell.Tab.1.bottom" timestamp="1585902729306">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1382" height="257" key="GridCell.Tab.1.bottom/0.0.1440.920@0.0.1440.920" timestamp="1585902729306" />
+    <state width="1382" height="257" key="GridCell.Tab.1.center" timestamp="1585902729306">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1382" height="257" key="GridCell.Tab.1.center/0.0.1440.920@0.0.1440.920" timestamp="1585902729306" />
+    <state width="1382" height="257" key="GridCell.Tab.1.left" timestamp="1585902729306">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1382" height="257" key="GridCell.Tab.1.left/0.0.1440.920@0.0.1440.920" timestamp="1585902729306" />
+    <state width="1382" height="257" key="GridCell.Tab.1.right" timestamp="1585902729306">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1382" height="257" key="GridCell.Tab.1.right/0.0.1440.920@0.0.1440.920" timestamp="1585902729306" />
+    <state x="222" y="103" key="SettingsEditor" timestamp="1585892452860">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="222" y="103" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1585892452860" />
+    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1585808053148">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1440.920@0.0.1440.920" timestamp="1585808053148" />
+  </component>
+</project>

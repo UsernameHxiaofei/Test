@@ -127,6 +127,10 @@ public class ExtendsTest {
         System.out.println("我是test11");
     }
 
+    public void test12 () {
+        System.out.println("我是test12");
+    }
+
 
 
 
